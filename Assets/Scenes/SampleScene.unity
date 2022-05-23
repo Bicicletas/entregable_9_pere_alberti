@@ -3197,6 +3197,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainMenu: {fileID: 837198241}
   optionsMenu: {fileID: 762251956}
+  nombre: {fileID: 209265173}
+  volumeToggle: {fileID: 808408129}
+  volume: {fileID: 896890340}
 --- !u!1 &1457338783
 GameObject:
   m_ObjectHideFlags: 0
